@@ -28,7 +28,7 @@ this-app/
 ## Available Scripts
 
 In the project directory, you can run:
-### `npm install`
+### `git clone https://github.com/VessJS/random-color-box-react.git`
 ### `npm start`
 
 Runs the app in the development mode.<br>
