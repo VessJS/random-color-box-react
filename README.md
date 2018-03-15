@@ -27,7 +27,7 @@ this-app/
 
 ## Available Scripts
 
-In the project directory, you can run:
+To run this app, you can use:
 ### `git clone https://github.com/VessJS/random-color-box-react.git`
 ### `npm start`
 
