@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
-`React, axios, react-redux, redux, redux-thunk`
+`ReactJS, Axios, React-redux, Redux, Redux-thunk`
 
 ## Folder Structure
 
