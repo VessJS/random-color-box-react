@@ -1,6 +1,6 @@
 let defaultState = {
     color: "red"
-}
+};
 
 const mainReducer = (state = defaultState, action) => {
     if (action.type === "CHANGE_COLOR") {
@@ -13,6 +13,6 @@ const mainReducer = (state = defaultState, action) => {
             ...state
         }
     }
-}
+};
 
 export default mainReducer;
